@@ -35,5 +35,3 @@ textHandler(bot)
 actionHandler(bot)
 
 bot.launch()
-
-//https://api.telegram.org/bot1233986680:AAEmYgyuO3YjJbR9uuFejH53J1BjxCWFx3Q/getUpdates

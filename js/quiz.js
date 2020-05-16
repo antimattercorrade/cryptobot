@@ -83,7 +83,7 @@ const newQuestion = async ctx => {
 const randomAnswers = (coins,answerQuantity, score) => {
     const answer = []
     const tmpArr = []
-    const score1 = ctx.session.score
+    const score1 = score
     //const difficulty = 0.01
     const coinsLen = coins.length +1
     let difficulty
