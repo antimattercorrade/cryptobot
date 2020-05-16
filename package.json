@@ -1,0 +1,23 @@
+{
+  "name": "basicnew20bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "serverless": "^1.68.0",
+    "telegraf": "^3.37.0"
+  },
+  "engines": {
+    "node": "^13.11.0"
+  }
+}
