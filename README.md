@@ -22,4 +22,7 @@ It uses data provided by Coin Market App for this purpose.
 
 It also has a cypto currency guessing game using the logos of different cryptocurrencies.
 
-### Check out the bot: https://t.me/basicnew20bot
+### To check out the bot: 
+Step 1: Start the server at https://newcryptobot.herokuapp.com
+
+Step 2: Message the bot at https://t.me/basicnew20bot
