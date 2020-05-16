@@ -21,3 +21,5 @@ This is a Crypto Bot which provides information like current price, ranking, mar
 It uses data provided by Coin Market App for this purpose.
 
 It also has a cypto currency guessing game using the logos of different cryptocurrencies.
+
+### Check out the bot: https://t.me/basicnew20bot
