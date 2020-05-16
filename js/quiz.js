@@ -83,14 +83,14 @@ const newQuestion = async ctx => {
 const randomAnswers = (coins,answerQuantity, score) => {
     const answer = []
     const tmpArr = []
-    const score = ctx.session.score
+    const score1 = ctx.session.score
     //const difficulty = 0.01
     const coinsLen = coins.length +1
     let difficulty
     //console.log(coins.length)
-    if(score > 0 && score <= 100) {
-        difficulty = 0.01*score
-    } else if (score >100){
+    if(score1 > 0 && score1 <= 100) {
+        difficulty = 0.01*score1
+    } else if (score1 >100){
         difficulty=1
     }else {
         difficulty= 0.01
