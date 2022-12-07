@@ -14,7 +14,7 @@
     "dotenv": "^8.2.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
-    "serverless": "^1.68.0",
+    "serverless": "^3.25.1",
     "telegraf": "^3.37.0"
   },
   "engines": {
